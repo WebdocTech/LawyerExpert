@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">LawyerExpertAndroid</string>
+    <!--TODO: Agora App ID (AgriExpert)-->
+    <string name="agora_app_id">d8f9391b4f8d4536aab94c853282b38a</string>
+
+    <string name="drawer_open">Open navigation drawer</string>
+    <string name="drawer_close">Close navigation drawer</string>
+
+    <!--Login Activity-->
+    <string name="username_str">Username</string>
+    <string name="password_str">Password</string>
+    <string name="forgotPass_str">Forgot Password?</string>
+    <string name="loginTitle_str">Login to QMS</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+</resources>

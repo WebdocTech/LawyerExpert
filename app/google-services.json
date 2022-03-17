@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "840649181931",
+    "project_id": "lawyerexpert",
+    "firebase_url": "https://peopley-3f3ce.firebaseio.com",
+    "storage_bucket": "lawyer expert.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:840649181931:android:61d69b50a83bfb6e4d4cae",
+        "android_client_info": {
+          "package_name": "com.webdoc.lawyerexpertandroid"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "840649181931-s38f2uj72llculqtcjklotm0i8bks814.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDKPqiDoI_PtNcDJ8zo5MwklNulOVxr3To"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "840649181931-s38f2uj72llculqtcjklotm0i8bks814.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

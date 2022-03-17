@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item android:title="ACTIONS">
+
+        <menu>
+
+            <item
+                android:id="@+id/action_home"
+                android:orderInCategory="100"
+                android:title="     Experience"
+                app:showAsAction="never" />
+
+            <item
+                android:id="@+id/action_myProfile"
+                android:orderInCategory="100"
+                android:title="     Languages"
+                app:showAsAction="never" />
+
+            <item
+                android:id="@+id/action_registerCar"
+                android:orderInCategory="100"
+                android:title="     Qualification"
+                app:showAsAction="never" />
+
+            <item
+                android:id="@+id/action_becomeCaptain"
+                android:orderInCategory="100"
+                android:title="     Registration"
+                app:showAsAction="never" />
+
+            <item
+                android:id="@+id/action_logout"
+                android:orderInCategory="100"
+                android:title="     Logout"
+                app:showAsAction="never" />
+
+        </menu>
+
+    </item>
+
+</menu>
